@@ -1,2 +1,1 @@
-# prueba
-prueba de respostorio
+Este proyeco es unaprueba de como clonar un reposotorio desd githud
